@@ -13,6 +13,10 @@ Neste espaço, embarcamos em uma jornada emocionante, focada no aprimoramento da
 
 A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolvida, impulsionada pela inovação. Utilizando as tecnologias de ponta, como Flutter para o frontend e NodeJs para o backend, criamos uma solução que não apenas enfrenta desafios técnicos, mas também abraça a visão de simplificar e aprimorar a vida de nossos usuários.
 
+[![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
+)](https://youtube.com/shorts/aljFezFIBmM?feature=share)
+
+![image](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/de7098af-8d4b-4e48-875f-9f60eb2f0653)
 
 ## Para iniciar o projeto
 
