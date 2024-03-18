@@ -21,11 +21,15 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 <br/>
 
+<div align="center">
+
 ## Vídeo PI | Youtube | Clique na imagem abaixo
 
 
   [![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
   ](https://youtube.com/shorts/aljFezFIBmM?feature=share)
+
+</div>
 
 
 <br/>
@@ -85,6 +89,6 @@ localhost:3000/slot?professionalId=1
 
 <br/>
 
-<h3>Agendamento</h3><br>
+<h3>Agendamento</h3>
 Método: POST
 localhost:3000/schedule
