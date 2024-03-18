@@ -4,7 +4,7 @@ Grupo Projeto Integrador:
 
 - Eduardo da Silva dos Santos | [eduardeveloper](https://github.com/eduardeveloper)
 - Mateus da Silva Maciel | [mateus1315](https://github.com/mateus1315)
-- Celso Frederico Gauz Alvez 
+- Celso Frederico Gauz Alvez | [RicoGauz](https://github.com/RicoGauz)
 - Vinicius Pereira de Oliveira | [DEVinicius](https://github.com/DEVinicius)
 - Cleiton Sampaio da Silva
 - Samuel Willians de Souza | [samuelwsouza](https://github.com/samuelwsouza)
@@ -21,7 +21,7 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 <br/>
 
-## Vídeo PI | Youtube
+## Vídeo PI | Youtube | Clique na imagem abaixo
 
 
   [![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
@@ -39,19 +39,35 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 Adicionalmente, fazemos a ressalva de que, como se trata de uma prova de conceitos, algumas funcionalidades não foram totalmente implementadas ou foram implementadas de forma reduzida.
 
-## Para iniciar o projeto
+## Para obter o projeto
 
-Tenha o node instalado na sua máquina
-Para instalar as dependencias do projeto, execute o comando:
+Passo 1: Clone o repositório
+Vá para a página do repositório do GitHub que contém o projeto Flutter.
+Clique no botão "Code" e copie o URL fornecido.
+Abra o terminal ou prompt de comando em seu computador.
+Navegue até o diretório onde você deseja clonar o projeto.
+Execute o seguinte comando para clonar o repositório:
 
 ```
-npm i 
+git clone https://github.com/samuelwsouza/pi-mobile-senac.git
 ```
 
-### Para executar o projeto
-Dentro do seu terminal, rode o comando
+Passo 2: Instale as dependências do projeto
+Navegue para o diretório do projeto clonado:
+
 ```
-npm run dev
+cd pi_simplecut
+```
+
+Execute o comando flutter pub get para instalar todas as dependências necessárias do projeto Flutter.
+
+Passo 3: Execute o aplicativo
+Agora que todas as dependências foram instaladas, você pode executar o aplicativo Flutter. Certifique-se de ter um emulador configurado ou um dispositivo físico conectado.
+Execute o comando flutter run no terminal ou prompt de comando dentro do diretório do projeto.
+Isso iniciará o processo de compilação e execução do aplicativo no emulador ou dispositivo conectado.
+
+```
+flutter run
 ```
 
 ## Rotas do projeto
