@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1105674134647734292/1219422675194089532/22fc45a5-e07f-45c6-a414-73549ebd1f15.png?ex=660b3edd&is=65f8c9dd&hm=900947be4d5147ef25b627230b866635555a12a05c5148337b0e627421ea9188&=&format=webp&quality=lossless&width=753&height=468" alt="Texto Alternativo">
-</p>
-
-
 # pi-mobile-senac
 
 Grupo Projeto Integrador:
@@ -17,7 +12,15 @@ Grupo Projeto Integrador:
 Neste espaço, embarcamos em uma jornada emocionante, focada no aprimoramento da experiência de agendamento de cortes de cabelo. Reconhecendo não apenas a sua importância prática, mas também sua profunda relação com a missão central de nosso aplicativo, optamos por tornar este processo o objeto de nossa prova de conceito.
 
 A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolvida, impulsionada pela inovação. Utilizando as tecnologias de ponta, como Flutter para o frontend e NodeJs para o backend, criamos uma solução que não apenas enfrenta desafios técnicos, mas também abraça a visão de simplificar e aprimorar a vida de nossos usuários.
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1105674134647734292/1219422675194089532/22fc45a5-e07f-45c6-a414-73549ebd1f15.png?ex=660b3edd&is=65f8c9dd&hm=900947be4d5147ef25b627230b866635555a12a05c5148337b0e627421ea9188&=&format=webp&quality=lossless&width=753&height=468" alt="Texto Alternativo">
+</p>
+
 <br/>
+<br/>
+
+
 
 ## Vídeo PI | Youtube
 
@@ -27,8 +30,9 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 </div>
 
 <br/>
+<br/>
 
-Prova de Conceito App Simple Cut
+<h3 align="center">Prova de Conceito App Simple Cut</h3>
 
   Após revisitarmos nosso projeto de App apresentado na 1ª etapa deste Projeto Integrador, definimos a jornada referente ao agendamento de cortes de cabelo como objeto da prova de conceito a ser desenvolvida, não apenas por se tratar da principal dificuldade identificada, mas também por sua estreita relação com a missão do aplicativo.
   
