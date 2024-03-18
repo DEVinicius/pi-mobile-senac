@@ -25,7 +25,7 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 
   [![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
-  )](https://youtube.com/shorts/aljFezFIBmM?feature=share)
+  ](https://youtube.com/shorts/aljFezFIBmM?feature=share)
 
 
 <br/>
@@ -39,7 +39,9 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 Adicionalmente, fazemos a ressalva de que, como se trata de uma prova de conceitos, algumas funcionalidades não foram totalmente implementadas ou foram implementadas de forma reduzida.
 
-## Para obter o projeto
+<br/>
+
+ <h3 align="center">Para obter o projeto</h3>
 
 Passo 1: Clone o repositório
 Vá para a página do repositório do GitHub que contém o projeto Flutter.
@@ -52,6 +54,8 @@ Execute o seguinte comando para clonar o repositório:
 git clone https://github.com/samuelwsouza/pi-mobile-senac.git
 ```
 
+<br/>
+
 Passo 2: Instale as dependências do projeto
 Navegue para o diretório do projeto clonado:
 
@@ -60,6 +64,8 @@ cd pi_simplecut
 ```
 
 Execute o comando flutter pub get para instalar todas as dependências necessárias do projeto Flutter.
+
+<br/>
 
 Passo 3: Execute o aplicativo
 Agora que todas as dependências foram instaladas, você pode executar o aplicativo Flutter. Certifique-se de ter um emulador configurado ou um dispositivo físico conectado.
@@ -70,11 +76,15 @@ Isso iniciará o processo de compilação e execução do aplicativo no emulador
 flutter run
 ```
 
-## Rotas do projeto
+<br/>
+
+<h3 align="center">Rotas do projeto</h3>
 - Busca de Slots<br>
 Método: GET
 localhost:3000/slot?professionalId=1
 
-- Agendamento<br>
+<br/>
+
+<h3 align="center">Agendamento</h3><br>
 Método: POST
 localhost:3000/schedule
