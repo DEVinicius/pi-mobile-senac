@@ -21,6 +21,12 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 )](https://youtube.com/shorts/aljFezFIBmM?feature=share)
 </p>
 
+<div align="center">
+  <a href="https://www.youtube.com/shorts/aljFezFIBmM">
+    <img src="(https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4" alt="Exemplo de Imagem" style="width:100%;">
+  </a>
+</div>
+
 <br/>
 
 Prova de Conceito App Simple Cut
