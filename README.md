@@ -13,10 +13,18 @@ Neste espaço, embarcamos em uma jornada emocionante, focada no aprimoramento da
 
 A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolvida, impulsionada pela inovação. Utilizando as tecnologias de ponta, como Flutter para o frontend e NodeJs para o backend, criamos uma solução que não apenas enfrenta desafios técnicos, mas também abraça a visão de simplificar e aprimorar a vida de nossos usuários.
 
+## Vídeo PI | Youtube
+
 [![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
 )](https://youtube.com/shorts/aljFezFIBmM?feature=share)
 
-![image](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/de7098af-8d4b-4e48-875f-9f60eb2f0653)
+Prova de Conceito App Simple Cut
+
+  Após revisitarmos nosso projeto de App apresentado na 1ª etapa deste Projeto Integrador, definimos a jornada referente ao agendamento de cortes de cabelo como objeto da prova de conceito a ser desenvolvida, não apenas por se tratar da principal dificuldade identificada, mas também por sua estreita relação com a missão do aplicativo.
+  
+  Isto posto, a prova de conceito de nosso App Simple Cut, abaixo demonstrada, foi elaborada com a utilização das tecnologias Flutter (frontend), NodeJs (backend), sendo o projeto completo posteriormente disponibilizado via GitHub (https://github.com/samuelwsouza).
+
+Adicionalmente, fazemos a ressalva de que, como se trata de uma prova de conceitos, algumas funcionalidades não foram totalmente implementadas ou foram implementadas de forma reduzida.
 
 ## Para iniciar o projeto
 
