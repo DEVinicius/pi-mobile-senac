@@ -14,3 +14,26 @@ Neste espaço, embarcamos em uma jornada emocionante, focada no aprimoramento da
 A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolvida, impulsionada pela inovação. Utilizando as tecnologias de ponta, como Flutter para o frontend e NodeJs para o backend, criamos uma solução que não apenas enfrenta desafios técnicos, mas também abraça a visão de simplificar e aprimorar a vida de nossos usuários.
 
 
+## Para iniciar o projeto
+
+Tenha o node instalado na sua máquina
+Para instalar as dependencias do projeto, execute o comando:
+
+```
+npm i 
+```
+
+### Para executar o projeto
+Dentro do seu terminal, rode o comando
+```
+npm run dev
+```
+
+## Rotas do projeto
+- Busca de Slots<br>
+Método: GET
+localhost:3000/slot?professionalId=1
+
+- Agendamento<br>
+Método: POST
+localhost:3000/schedule
