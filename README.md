@@ -78,13 +78,13 @@ flutter run
 
 <br/>
 
-<h3 align="center">Rotas do projeto</h3>
+<h3>Rotas do projeto</h3>
 - Busca de Slots<br>
 Método: GET
 localhost:3000/slot?professionalId=1
 
 <br/>
 
-<h3 align="center">Agendamento</h3><br>
+<h3>Agendamento</h3><br>
 Método: POST
 localhost:3000/schedule
