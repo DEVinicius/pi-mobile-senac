@@ -3,7 +3,7 @@
 Grupo Projeto Integrador:
 
 - Eduardo da Silva dos Santos | [eduardeveloper](https://github.com/eduardeveloper)
-- Mateus da Silva Maciel
+- Mateus da Silva Maciel | [mateus1315](https://github.com/mateus1315)
 - Celso Frederico Gauz Alvez 
 - Vinicius Pereira de Oliveira | [DEVinicius](https://github.com/DEVinicius)
 - Cleiton Sampaio da Silva
@@ -23,10 +23,10 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 ## Vídeo PI | Youtube
 
-<div align="center">
+
   [![VideoYoutubePI](https://github.com/samuelwsouza/pi-mobile-senac/assets/83421432/1f4d53de-a18b-4702-887a-bfddf316a7d4)
   )](https://youtube.com/shorts/aljFezFIBmM?feature=share)
-</div>
+
 
 <br/>
 <br/>
