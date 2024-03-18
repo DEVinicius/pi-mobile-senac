@@ -1,6 +1,6 @@
 # pi-mobile-senac
 
-Grupo Projeto Integrador:
+## Grupo Projeto Integrador:
 
 - Eduardo da Silva dos Santos
 - Mateus da Silva Maciel
