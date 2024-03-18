@@ -5,7 +5,7 @@ Grupo Projeto Integrador:
 - Eduardo da Silva dos Santos | [eduardeveloper](https://github.com/eduardeveloper)
 - Mateus da Silva Maciel
 - Celso Frederico Gauz Alvez 
-- Vinicius Pereira de Oliveira | ([DEVinicius](https://github.com/DEVinicius)
+- Vinicius Pereira de Oliveira | [DEVinicius](https://github.com/DEVinicius)
 - Cleiton Sampaio da Silva
 - Samuel Willians de Souza | [samuelwsouza](https://github.com/samuelwsouza)
 
