@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_DA_IMAGEM](https://media.discordapp.net/attachments/1105674134647734292/1219422675194089532/22fc45a5-e07f-45c6-a414-73549ebd1f15.png?ex=660b3edd&is=65f8c9dd&hm=900947be4d5147ef25b627230b866635555a12a05c5148337b0e627421ea9188&=&format=webp&quality=lossless&width=753&height=468)" alt="Texto Alternativo">
+  <img src="https://media.discordapp.net/attachments/1105674134647734292/1219422675194089532/22fc45a5-e07f-45c6-a414-73549ebd1f15.png?ex=660b3edd&is=65f8c9dd&hm=900947be4d5147ef25b627230b866635555a12a05c5148337b0e627421ea9188&=&format=webp&quality=lossless&width=753&height=468" alt="Texto Alternativo">
 </p>
 
 
