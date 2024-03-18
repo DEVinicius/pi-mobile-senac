@@ -37,10 +37,8 @@ A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolv
 
 <h3 align="center">Prova de Conceito App Simple Cut</h3>
 
-  Após revisitarmos nosso projeto de App apresentado na 1ª etapa deste Projeto Integrador, definimos a jornada referente ao agendamento de cortes de cabelo como objeto da prova de conceito a ser desenvolvida, não apenas por se tratar da principal dificuldade identificada, mas também por sua estreita relação com a missão do aplicativo.
-  
-  Isto posto, a prova de conceito de nosso App Simple Cut, abaixo demonstrada, foi elaborada com a utilização das tecnologias Flutter (frontend), NodeJs (backend), sendo o projeto completo posteriormente disponibilizado via GitHub (https://github.com/samuelwsouza).
-
+Após revisitarmos nosso projeto de App apresentado na 1ª etapa deste Projeto Integrador, definimos a jornada referente ao agendamento de cortes de cabelo como objeto da prova de conceito a ser desenvolvida, não apenas por se tratar da principal dificuldade identificada, mas também por sua estreita relação com a missão do aplicativo.
+Isto posto, a prova de conceito de nosso App Simple Cut, abaixo demonstrada, foi elaborada com a utilização das tecnologias Flutter (frontend), NodeJs (backend), sendo o projeto completo posteriormente disponibilizado via GitHub (https://github.com/samuelwsouza).
 Adicionalmente, fazemos a ressalva de que, como se trata de uma prova de conceitos, algumas funcionalidades não foram totalmente implementadas ou foram implementadas de forma reduzida.
 
 <br/>
