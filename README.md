@@ -9,6 +9,16 @@ Grupo Projeto Integrador:
 - Cleiton Sampaio da Silva
 - Samuel Willians de Souza | [samuelwsouza](https://github.com/samuelwsouza)
 
+<br/>
+
+<h3>Histórico de colaborações</h3>
+
+- Front-end | Flutter | Dart (Mateus)
+- Back-end | Node.js | Express.js | MySQL (Vinicius)
+- Prova de Conceito (Celso)
+- Suporte (Cleiton)
+- GitHub (Samuel)
+
 Neste espaço, embarcamos em uma jornada emocionante, focada no aprimoramento da experiência de agendamento de cortes de cabelo. Reconhecendo não apenas a sua importância prática, mas também sua profunda relação com a missão central de nosso aplicativo, optamos por tornar este processo o objeto de nossa prova de conceito.
 
 A prova de conceito de nosso aplicativo Simple Cut foi meticulosamente desenvolvida, impulsionada pela inovação. Utilizando as tecnologias de ponta, como Flutter para o frontend, NodeJs para o backend e MySQL como banco de dados, criamos uma solução que não apenas enfrenta desafios técnicos, mas também abraça a visão de simplificar e aprimorar a vida de nossos usuários.
