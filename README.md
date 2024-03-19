@@ -11,7 +11,7 @@ Grupo Projeto Integrador:
 
 <br/>
 
-<h3>Histórico de colaborações</h3>
+Histórico de colaborações
 
 - Front-end | Flutter | Dart (Mateus)
 - Back-end | Node.js | Express.js | MySQL (Vinicius)
