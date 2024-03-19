@@ -17,6 +17,7 @@ Histórico de colaborações
 - Back-end | Node.js | Express.js | MySQL (Vinicius)
 - Prova de Conceito (Celso)
 - Suporte (Cleiton)
+- Suporte (Eduardo)
 - GitHub (Samuel)
 
 <br/>
